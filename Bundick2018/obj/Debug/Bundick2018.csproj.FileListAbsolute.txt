@@ -1,0 +1,13 @@
+C:\Users\ihateclownz\source\repos\Bundick2018\Bundick2018\bin\Debug\Bundick2018.exe.config
+C:\Users\ihateclownz\source\repos\Bundick2018\Bundick2018\bin\Debug\Bundick2018.exe
+C:\Users\ihateclownz\source\repos\Bundick2018\Bundick2018\bin\Debug\Bundick2018.pdb
+C:\Users\ihateclownz\source\repos\Bundick2018\Bundick2018\bin\Debug\MySql.Data.dll
+C:\Users\ihateclownz\source\repos\Bundick2018\Bundick2018\obj\Debug\Bundick2018.csprojResolveAssemblyReference.cache
+C:\Users\ihateclownz\source\repos\Bundick2018\Bundick2018\obj\Debug\Bundick2018.Properties.Resources.resources
+C:\Users\ihateclownz\source\repos\Bundick2018\Bundick2018\obj\Debug\Bundick2018.csproj.GenerateResource.Cache
+C:\Users\ihateclownz\source\repos\Bundick2018\Bundick2018\obj\Debug\Bundick2018.csproj.CoreCompileInputs.cache
+C:\Users\ihateclownz\source\repos\Bundick2018\Bundick2018\obj\Debug\Bundick2018.exe
+C:\Users\ihateclownz\source\repos\Bundick2018\Bundick2018\obj\Debug\Bundick2018.pdb
+C:\Users\ihateclownz\source\repos\Bundick2018\Bundick2018\obj\Debug\Bundick2018.Main.resources
+C:\Users\ihateclownz\source\repos\Bundick2018\Bundick2018\obj\Debug\Bundick2018.CustomerSearch.resources
+C:\Users\ihateclownz\source\repos\Bundick2018\Bundick2018\obj\Debug\Bundick2018.Form1.resources
